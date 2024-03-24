@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 8000,
+        "id": 1,
+        "title": "Muzarella",
+        "thumbnailUrl": "img/muzza.jpg"
+    },
+    {
+        "precio": 8500,
+        "id": 2,
+        "title": "Pizza de cebolla",
+        "thumbnailUrl": "img/cebolla.jpg"
+    },
+    {
+        "precio": 9000,
+        "id": 3,
+        "title": "Pizza de jamon y morrones",
+        "thumbnailUrl": "img/jamon-y-morrones.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 4,
+        "title": "Empanadas de carne",
+        "thumbnailUrl": "img/e-carne.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 5,
+        "title": "Empanadas de jamon y queso",
+        "thumbnailUrl": "img/e-jyq.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 6,
+        "title": "Empanadas de humita",
+        "thumbnailUrl": "img/e-humita.jpg"
+    }
+]
